@@ -1,5 +1,7 @@
 # 2048
 
+Training a double duel Q-learning agent to achieve the 2048 tile in the Puzzle Game 2048, within 3 hours constraint using google Colab GPU.
+
 ### Please read these instructions carefully
 
 Here are the instructions in order to run the code. The code is divided into two independant parts: a Jupyter Notebook (2048_DQN.ipynb) and 3 python files (main.py, game_display.py, classes.py). Additionnally, the 3 files parameters_reward are the parameters of the trained DQNs associated to each of the 3 rewards considered. These files can be used for the reproduction of the results. 
